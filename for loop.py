@@ -1,3 +1,3 @@
 for each_item in range(5):
-    print("each_item:")
+    print("each_item")
 
