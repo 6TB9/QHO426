@@ -1,3 +1,5 @@
 def print_hi(name):
     print(f'Hi, {name}')
-    if name == main
+    if __name__ == 'Main':
+        print_hi("Pycharm")
+
